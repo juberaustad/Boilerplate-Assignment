@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+C:\Users\User\source\repos\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\User\source\repos\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\source\repos\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\User\source\repos\Session2\Data Access Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\User\Desktop\Boilerplate\Session2\Data Access Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\User\Downloads\Neosoft Project-20230622T051838Z-001\Neosoft Project\Session2\Session2\Data Access Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "ExpError";
+}
+
+<h1>Oops.. Error occured</h1>
+<h3>Please contact:@ViewBag.adminEmail</h3>
+<div class="alert alert-danger" role="alert">
+  <strong>Path :</strong>@ViewBag.ExpPath
+</div>
+
+<div class="alert alert-danger" role="alert">
+ <strong>Error Message :</strong>@ViewBag.ExpMessage
+</div>
+
+
+<div class="alert alert-danger" role="alert">
+   <strong>Error Stack trace :</strong>@ViewBag.Exptrace
+</div>
+<div class="alert alert-danger" role="alert">
+   <strong>Environment :</strong>@ViewBag.AppEnvironment
+</div>
