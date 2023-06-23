@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\Neosoft Project-20230622T051838Z-001\\Neosoft Project\\Session2\\Session2\\Data Access Layer\\Data_Access_Layer.csproj": {}
+    "C:\\Users\\User\\Desktop\\NeoSoft_Juberustad_13_04\\Boilerplate\\Session2\\Data Access Layer\\Data_Access_Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\Neosoft Project-20230622T051838Z-001\\Neosoft Project\\Session2\\Session2\\Data Access Layer\\Data_Access_Layer.csproj": {
+    "C:\\Users\\User\\Desktop\\NeoSoft_Juberustad_13_04\\Boilerplate\\Session2\\Data Access Layer\\Data_Access_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\Neosoft Project-20230622T051838Z-001\\Neosoft Project\\Session2\\Session2\\Data Access Layer\\Data_Access_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\NeoSoft_Juberustad_13_04\\Boilerplate\\Session2\\Data Access Layer\\Data_Access_Layer.csproj",
         "projectName": "Data_Access_Layer",
-        "projectPath": "C:\\Users\\User\\Downloads\\Neosoft Project-20230622T051838Z-001\\Neosoft Project\\Session2\\Session2\\Data Access Layer\\Data_Access_Layer.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\NeoSoft_Juberustad_13_04\\Boilerplate\\Session2\\Data Access Layer\\Data_Access_Layer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\Neosoft Project-20230622T051838Z-001\\Neosoft Project\\Session2\\Session2\\Data Access Layer\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\NeoSoft_Juberustad_13_04\\Boilerplate\\Session2\\Data Access Layer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
